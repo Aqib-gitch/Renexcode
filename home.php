@@ -18,7 +18,7 @@
 		#header h1{
 			font-size:  48px;
 			font-weight: 700px;
-			color: white;
+			color: black;
 		}
 		#header h2{
 			font-size: 24px;
