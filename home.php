@@ -16,7 +16,7 @@
 		}
 
 		#header h1{
-			font-size:  48px;
+			font-size:  47px;
 			font-weight: 700px;
 			color: black;
 		}
